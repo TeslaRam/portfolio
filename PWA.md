@@ -2,7 +2,7 @@
 
 Player for `PerWiber` project, where playing songs on android device happens.
 
-I'm using `mediaPlayer` for playing songs, `retrofit2` for communication with **PWBackend** and
+I'm using `ExoPlayer` for playing songs, `retrofit2` for communication with **PWBackend** and
 `room` with `SharedPreferences` for storing local history.
 Whole app is in `Kotlin`'s framework `Jetpack Compose`.
 
@@ -10,6 +10,20 @@ Whole app is in `Kotlin`'s framework `Jetpack Compose`.
 
 > Menu can be **opened** / **closed** either by button in **bottom right** corner, or by swiping
 > through screen
+
+### Effects
+
+Can be turned on / off
+
+Have **reset to defaults** button
+
+3 sliders for **bass**, **reverb level** and **reverb time**
+
+### TRytm
+
+> Same as Midi
+
+Here you can tap to beat. You have 2 sound effects to tap with: **drum** and **cymbals**
 
 ### Most played
 
@@ -69,4 +83,4 @@ number_ of songs.
 
 Option to search for song by either **name** or **lyrics**
 
-![PWAndroid logo](/usedImages/PWA.png)
+![PWAndroid logo](PWAndroid.png)
