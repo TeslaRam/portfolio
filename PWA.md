@@ -83,4 +83,4 @@ number_ of songs.
 
 Option to search for song by either **name** or **lyrics**
 
-![PWAndroid logo](PWAndroid.png)
+![PWAndroid logo](/usedImages/PWA.png)
