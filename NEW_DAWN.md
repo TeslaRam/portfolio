@@ -15,7 +15,6 @@
 - [User Level](#user-level)
 - [Export](#export)
 - [History](#history)
-- [TODO](#todo)
 
 ---
 ---
