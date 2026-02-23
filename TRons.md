@@ -42,7 +42,7 @@ Without this, app may crash
 
 ## Usage:
 
-*latest version:* `2.0`
+*latest version:* `2.1`
 
 **KMP**: implementation("tr.trons:TRons:$version")
 
@@ -64,4 +64,4 @@ in case of `Duplicate class` error.
 - akaya font
 - card layout fix
 
-![TRons](TRons_logo.png)
+![TRons](/usedImages/TRons_logo.png)
