@@ -12,22 +12,50 @@
 
 - 👨‍💻 Brief of my projects is available at **[github.com/TeslaRam/portfolio](https://github.com/TeslaRam/portfolio)**
 
-- 📝 I love editing videos **[youtube.com/@teslaramer](https://www.youtube.com/@teslaramer)**
+- 📝 I love editing videos **[youtube.com/@teslaramer](https://www.youtube.com/@teslaramer)** (not active)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/https://github.com/TeslaRam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/TeslaRam" height="30" width="40" /></a>
-<a href="https://youtube.com/https://www.youtube.com/@teslaramer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@teslaramer" height="30" width="40" /></a>
+<a href="https://github.com/TeslaRam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/TeslaRam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@teslaramer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@teslaramer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+<p align="left">
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=spring" alt="spring" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=python" alt="python" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" />
+  </a>
+</p>
 
 ## My programming preferences
 
 I work mostly in **Android Studio** or **Intellij Idea**, with **Kotlin**'s framwork **Jetpack Compose**, althougth I have little little bit of experience with **XML**, as large part of my _high school graduation_ project was created with it.
 
 For _backend_ I like to use **Kotlin** with **SpringBoot** framework and **PostgreSQL** as _database_.
+
+## I met with
+I started programming in C++, then slightly shifted for C# desktop apps, but didn't stick for long. During that time I also tryed web development in school, consisting of basic HTML, CSS, JS and PHP. In school we also learned IoT with Python for 2 years, and since November 2021 I'm actively using Kotlin, either for Android or Desktop apps.
 
 ## Navigation
 
