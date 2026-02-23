@@ -34,6 +34,9 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=docker" alt="docker" />
   </a>
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=c" alt="c" />
+  </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" />
   </a>
