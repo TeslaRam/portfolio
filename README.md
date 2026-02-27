@@ -62,7 +62,9 @@ I started programming in C++, then slightly shifted for C# desktop apps, but did
 
 ## Navigation
 
-This repository is about my personal projects.
+Folder **jobReferences** contains references from my (holiday) jobs.
+
+This repository is also about my personal projects.
 I also have [school github](https://github.com/RomanPruzinsky/), but most of projects are private at this time.
 
 There are READMEs from my projects, slightly transformed for presentational usage.
