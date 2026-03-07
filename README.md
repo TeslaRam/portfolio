@@ -10,9 +10,11 @@
 
 - 📫 How to reach me **pruzinsky.roman.tr@gmail.com**
 
+- 📝 You can take a look at my **[LinkedIn profile](www.linkedin.com/in/roman-pružinský-1b19aa3b5)**
+
 - 👨‍💻 Brief of my projects is available at **[github.com/TeslaRam/portfolio](https://github.com/TeslaRam/portfolio)**
 
-- 📝 I love editing videos **[youtube.com/@teslaramer](https://www.youtube.com/@teslaramer)** (not active)
+- 📽️ I love editing videos **[youtube.com/@teslaramer](https://www.youtube.com/@teslaramer)** (not active)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
