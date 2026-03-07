@@ -4,13 +4,13 @@
 
 - 🔭 I'm currently working on **[Nové Svitanie APP](https://github.com/NewDawn-CZSK)** (and partly most of my other projects)
 
-- 🌱 I'm currently studying at **VUT FIT**
+- 🌱 I'm currently studying at **[VUT FIT](https://www.fit.vut.cz/.en)**
 
 - 👯 I'm looking to collaborate on **Android projects**
 
 - 📫 How to reach me **pruzinsky.roman.tr@gmail.com**
 
-- 📝 You can take a look at my **[LinkedIn profile](www.linkedin.com/in/roman-pružinský-1b19aa3b5)**
+- 📝 You can take a look at my **[LinkedIn profile](https://www.linkedin.com/in/roman-pružinský-1b19aa3b5)**
 
 - 👨‍💻 Brief of my projects is available at **[github.com/TeslaRam/portfolio](https://github.com/TeslaRam/portfolio)**
 
